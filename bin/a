@@ -1,0 +1,16 @@
+vafa@miniscule:~/Desktop/fish$ ls -la
+total 2625608
+drwxr-xr-x  2 vafa vafa      4096 2012-02-06 16:00 .
+drwx--xr-x 15 vafa vafa      4096 2012-02-13 12:09 ..
+-rw-r--r--  1 vafa vafa 294154752 2012-01-08 16:28 B1GAF01D00.MOV
+-rw-r--r--  1 vafa vafa 274324992 2012-02-06 15:04 B1GAF01D02.MOV
+-rw-r--r--  1 vafa vafa 296044032 2012-01-08 16:29 B1GAF02D00.MOV
+-rw-r--r--  1 vafa vafa 305076224 2012-02-06 15:05 B1GAF02D02.MOV
+-rw-r--r--  1 vafa vafa   8388783 2012-01-08 16:28 B1GAF03D00.MOV
+-rw-r--r--  1 vafa vafa 303039488 2012-02-06 15:05 B1GAF03D02.MOV
+-rw-r--r--  1 vafa vafa 296486912 2012-01-08 16:29 B1GAF04D00.MOV
+-rw-r--r--  1 vafa vafa 302460928 2012-02-06 15:05 B1GAF04D02.MOV
+-rw-r--r--  1 vafa vafa 290419200 2012-01-08 16:29 B1GAF05D00.MOV
+-rw-r--r--  1 vafa vafa 315503104 2012-02-06 16:00 B1GAF05D02.MOV
+-rw-r--r--  1 vafa vafa       711 2012-01-08 16:27 BAGAF02D00.MOV
+

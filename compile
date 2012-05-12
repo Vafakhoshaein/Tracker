@@ -1,0 +1,7 @@
+cd ..
+cd beam-remote
+rm -rf *
+../NewTracker/configure --prefix=$HOME/local/NewTracker
+make
+make install
+
